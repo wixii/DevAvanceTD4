@@ -22,3 +22,6 @@ Pour 4096 bits : ajouter le paramètre 4096 à la fin
 - ![img_3.png](img_3.png)
 3.3
 - ![img_4.png](img_4.png)
+
+3.4
+![img_5.png](img_5.png)
