@@ -5,4 +5,5 @@ Pour 4096 bits : ajouter le paramètre 4096 à la fin
 
 2.1 commande bash suivante : openssl genrsa -des3 -out server_protected.key 2048 #protégée avec DES3
 
-2.2
+2.2 commande bash suivante : openssl rsa -in server_protected.key -pubout -out server_protected.pub
+-> différence : demande du mdp + clé publique extraite est identique + header dans le fichier protégé généré .key "---BEGIN ENCRYPTED PRIVATE KEY-----"
