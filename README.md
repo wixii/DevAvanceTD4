@@ -20,3 +20,5 @@ Pour 4096 bits : ajouter le paramètre 4096 à la fin
 - *HA-1: 160 bits (40 caractères hex)
 3.2
 - ![img_3.png](img_3.png)
+3.3
+- ![img_4.png](img_4.png)
