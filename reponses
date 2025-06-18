@@ -7,3 +7,8 @@ Pour 4096 bits : ajouter le paramètre 4096 à la fin
 
 2.2 commande bash suivante : openssl rsa -in server_protected.key -pubout -out server_protected.pub
 -> différence : demande du mdp + clé publique extraite est identique + header dans le fichier protégé généré .key "---BEGIN ENCRYPTED PRIVATE KEY-----"
+
+
+3.1 commandes :
+- cf. ReadMe j'y ai mis les screens (soucis de simplicité)
+
