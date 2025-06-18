@@ -18,3 +18,5 @@ Pour 4096 bits : ajouter le paramètre 4096 à la fin
 
 - MD5: 128 bits (32 caractères hex)
 - *HA-1: 160 bits (40 caractères hex)
+3.2
+- ![img_3.png](img_3.png)
